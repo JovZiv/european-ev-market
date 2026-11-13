@@ -179,4 +179,4 @@ Streamlit will provide a local URL in the terminal. Open that URL in your browse
 ## 🔗 Project Links
 
 - **Live Dashboard:** https://european-ev-marketgit-final-project.streamlit.app/
-- **Presentation Slides:** [https://github.com/JovZiv/european-ev-market](https://drive.google.com/file/d/1ViYM76FywOL3r2XCZh5kr-Swd1qQy13a/view?usp=sharing)
+- **Presentation Slides:** [https://google-slides-european-ev-market](https://drive.google.com/file/d/1ViYM76FywOL3r2XCZh5kr-Swd1qQy13a/view?usp=sharing)
